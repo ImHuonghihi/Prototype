@@ -1,0 +1,16 @@
+G:\DemoCSharp_1951\Prototype\Prototype\obj\Debug\net5.0\Prototype.csproj.AssemblyReference.cache
+G:\DemoCSharp_1951\Prototype\Prototype\obj\Debug\net5.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+G:\DemoCSharp_1951\Prototype\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfoInputs.cache
+G:\DemoCSharp_1951\Prototype\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfo.cs
+G:\DemoCSharp_1951\Prototype\Prototype\obj\Debug\net5.0\Prototype.csproj.CoreCompileInputs.cache
+G:\DemoCSharp_1951\Prototype\Prototype\bin\Debug\net5.0\Prototype.exe
+G:\DemoCSharp_1951\Prototype\Prototype\bin\Debug\net5.0\Prototype.deps.json
+G:\DemoCSharp_1951\Prototype\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.json
+G:\DemoCSharp_1951\Prototype\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.dev.json
+G:\DemoCSharp_1951\Prototype\Prototype\bin\Debug\net5.0\Prototype.dll
+G:\DemoCSharp_1951\Prototype\Prototype\bin\Debug\net5.0\ref\Prototype.dll
+G:\DemoCSharp_1951\Prototype\Prototype\bin\Debug\net5.0\Prototype.pdb
+G:\DemoCSharp_1951\Prototype\Prototype\obj\Debug\net5.0\Prototype.dll
+G:\DemoCSharp_1951\Prototype\Prototype\obj\Debug\net5.0\ref\Prototype.dll
+G:\DemoCSharp_1951\Prototype\Prototype\obj\Debug\net5.0\Prototype.pdb
+G:\DemoCSharp_1951\Prototype\Prototype\obj\Debug\net5.0\Prototype.genruntimeconfig.cache
