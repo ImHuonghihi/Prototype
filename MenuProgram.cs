@@ -8,6 +8,8 @@ namespace Prototype
             bool running = true;
             while(running)
             {
+                System.Console.WriteLine("**************Welcome to Luxury Car Factory**************");
+                System.Console.WriteLine("                     Here is the Menu                    ");
                 PrintMenu();
                 int option = ChooseOption();
                 DoTask(option);
@@ -21,8 +23,7 @@ namespace Prototype
 
         protected virtual int ChooseOption()
         {
-            Console.Write("Enter your choice: ");
-            int option = Convert.ToInt32(Console.ReadLine());
+            int option = CheckInput.CheckInteger("Enter your choice: ");
             System.Console.WriteLine();           
             return option;
         }

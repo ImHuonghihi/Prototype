@@ -8,9 +8,26 @@ namespace Prototype
 
         public int price; 
 
-        public string ModelName { get; set; }
+        public string ModelName
+        {
+            get { return modelName; }
+            set 
+            {
+                if (value.Length <= 0) throw new DataNotCorrect("Error: Model name must is not null!!!");
+                else modelName = value; 
+            }
+        }
 
-        public int Price { get; set; }
+        public int Price
+        {
+            get { return price; }
+            set 
+            {
+                //price = value;
+                if (value <= 0) throw new DataNotCorrect("Error: Price is not less than 0!!!");
+                else price = value;
+            }
+        }
 
         public abstract Car Clone ();
 
